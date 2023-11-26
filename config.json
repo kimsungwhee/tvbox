@@ -9,9 +9,9 @@
         "changeable": 1
       },
       {
-        "key": "haiwaikan",
+        "key": "高清资源",
         "name": "海外看",
-        "type": 1,
+        "type": 0,
         "api": "https://haiwaikan.com/api.php/provide/vod",
         "searchable": 1,
         "changeable": 1,
