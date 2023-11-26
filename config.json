@@ -64,7 +64,8 @@
       "api": "csp_AppYs",
       "searchable": 1,
       "changeable": 1,
-      "ext":"https://haiwaikan.com/api.php/provide/vod",
+      "filterable":1,
+      "ext":"https://haiwaikan.com/api.php/provide/vod"
     },
     {
       "key": "豆瓣",
