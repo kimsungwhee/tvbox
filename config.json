@@ -1,0 +1,21 @@
+{
+    "sites": [
+      {
+        "key": "泥巴",
+        "name": "泥巴",
+        "type": 3,
+        "api": "csp_NiNi",
+        "searchable": 1,
+        "changeable": 1
+      },
+      {
+        "key": "haiwaikan",
+        "name": "海外看",
+        "type": 1,
+        "api": "https://haiwaikan.com/api.php/provide/vod",
+        "searchable": 1,
+        "changeable": 1,
+        "filterable": 1
+      }
+    ]
+  }
